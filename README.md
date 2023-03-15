@@ -1,7 +1,8 @@
 # Uncertified VA Claim Reps repo
 
 ## Uncertified Claim Reps
-vetassist.org - C however seems linked to vetlinksolutions.com
+vetassist.org - C seems linked to vetlinksolutions.com
+vaclaimsinsider.com - F-, free to join program. Payment comes after rating increase. 
 
 ## Certified lists from VA
 - Attorneys - https://www.va.gov/ogc/apps/accreditation/attorneyexcellist.asp
@@ -11,13 +12,14 @@ vetassist.org - C however seems linked to vetlinksolutions.com
 
 ## Details on Googling
 #### Not going to name any names of groups I have found that were Certified. Just keeping track based on searches
-- Uncertified - 1
+- Uncertified - 2
 - Certified - 3
 
 
 ## Grading Scale
-- A - No definition at this time
-- B - No definition at this time
+- A - States that they are not certified and clearly states no payment required
+- B - States that they are not certified and does not clearly state paymet method
 - C - Uncertified and does not push you to contact them
 - D - Uncertified and is not clearly identifiy payment structure
 - F - Uncertified and clearly accepts payment by taking a portion of claim
+- (minus) - For Ads on Google Searches
