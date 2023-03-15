@@ -1,8 +1,8 @@
 # Uncertified VA Claim Reps repo
 
 ## Uncertified Claim Reps
-vetassist.org - C seems linked to vetlinksolutions.com
-vaclaimsinsider.com - F-, free to join program. Payment comes after rating increase. 
+- vetassist.org - C seems linked to vetlinksolutions.com
+- vaclaimsinsider.com - F-, free to join program. Payment comes after rating increase. 
 
 ## Certified lists from VA
 - Attorneys - https://www.va.gov/ogc/apps/accreditation/attorneyexcellist.asp
