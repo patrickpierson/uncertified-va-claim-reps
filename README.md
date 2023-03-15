@@ -23,3 +23,18 @@
 - D - Uncertified and is not clearly identifiy payment structure
 - F - Uncertified and clearly accepts payment by taking a portion of claim
 - (minus) - For Ads on Google Searches
+
+## Download.py
+### Downloads VA Certified list and convers to CSV
+
+#### Install
+> pipenv --three
+> pipenv install
+> mkdir data
+
+#### Run
+> pipenv run python download.py
+
+#### Use
+> cat data/*csv | grep First | grep Last
+This will enable you to search for someone's first as last name in the certified lists.
